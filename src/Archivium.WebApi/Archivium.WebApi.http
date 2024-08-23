@@ -1,0 +1,6 @@
+@Archivium.WebApi_HostAddress = http://localhost:5233
+
+GET {{Archivium.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
